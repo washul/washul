@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=washul&style=flat-square&color=blue" alt="" />
 </div>
 
 <div id="badges" align="center">
@@ -55,6 +55,6 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?washul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
