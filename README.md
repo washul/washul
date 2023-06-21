@@ -52,6 +52,9 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
   <li> Android jetpack </li>
   <li> Jetpack Compose</li>
+  <li> CI/CD </li>
+  <li> Unit Testing </li>
+  <li> Android Testing </li>
   <li> Hilt </li>
   <li> Koin </li>
   <li> Retrofit </li>
